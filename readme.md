@@ -1,3 +1,6 @@
+### 免杀学习  
+https://www.freebuf.com/articles/system/355847.html
+
 ### Bypass测试  
 在`encrypt.py`文件中，替换你的shellcode：
 
